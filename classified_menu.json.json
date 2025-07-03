@@ -1,0 +1,4045 @@
+{
+    "1": [
+        {
+            "name": "Waffle - 1 Spread",
+            "price": 5.5,
+            "ingredients": [
+                "waffle",
+                "flour",
+                "egg",
+                "butter",
+                "choice of spreads"
+            ],
+            "tags": [
+                "halal",
+                "cold",
+                "food",
+                "not healthy",
+                "sweet"
+            ]
+        },
+        {
+            "name": "Waffle - 2 Spreads",
+            "price": 6,
+            "ingredients": [
+                "waffle",
+                "flour",
+                "egg",
+                "butter",
+                "choice of spreads"
+            ],
+            "tags": [
+                "halal",
+                "cold",
+                "food",
+                "not healthy",
+                "sweet"
+            ]
+        },
+        {
+            "name": "Kopi (Hot/Cold)",
+            "price": "3.00 / 3.50",
+            "ingredients": [
+                "black coffee",
+                "sugar"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "hot",
+                "cold",
+                "drink",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Kopi O (Hot/Cold)",
+            "price": "3.00 / 3.50",
+            "ingredients": [
+                "black coffee",
+                "sugar"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "hot",
+                "cold",
+                "drink",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Teh O (Hot/Cold)",
+            "price": "3.00 / 3.50",
+            "ingredients": [
+                "black tea",
+                "sugar"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "hot",
+                "cold",
+                "drink",
+                "healthy"
+            ]
+        },
+        {
+            "name": "Teh Tarik (Hot/Cold)",
+            "price": "3.00 / 3.50",
+            "ingredients": [
+                "black tea",
+                "condensed milk"
+            ],
+            "tags": [
+                "halal",
+                "hot",
+                "cold",
+                "drink",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Cham (Hot/Cold)",
+            "price": "3.00 / 3.50",
+            "ingredients": [
+                "black tea",
+                "coffee",
+                "condensed milk"
+            ],
+            "tags": [
+                "halal",
+                "hot",
+                "cold",
+                "drink",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Milo (Hot/Cold)",
+            "price": "3.00 / 3.50",
+            "ingredients": [
+                "milo chocolate powder",
+                "milk",
+                "sugar"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "hot",
+                "cold",
+                "drink",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Neslo (Hot/Cold)",
+            "price": "3.00 / 3.50",
+            "ingredients": [
+                "nescafe",
+                "milo",
+                "milk",
+                "sugar"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "hot",
+                "cold",
+                "drink",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Ice Lemon Tea",
+            "price": "3.5",
+            "ingredients": [
+                "black tea",
+                "lemon",
+                "sugar",
+                "ice"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "cold",
+                "drink",
+                "healthy"
+            ]
+        },
+        {
+            "name": "Ice Lemonade",
+            "price": "3.5",
+            "ingredients": [
+                "lemon juice",
+                "sugar",
+                "water",
+                "ice"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "cold",
+                "drink",
+                "healthy"
+            ]
+        },
+        {
+            "name": "Watermelon Lemonade",
+            "price": "3.5",
+            "ingredients": [
+                "lemon juice",
+                "sugar",
+                "water",
+                "ice"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "cold",
+                "drink",
+                "healthy"
+            ]
+        },
+        {
+            "name": "Thai Tea",
+            "price": "7",
+            "ingredients": [
+                "thai tea mix",
+                "milk",
+                "sugar"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "hot",
+                "cold",
+                "drink",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Mango Yogurt",
+            "price": "7",
+            "ingredients": [
+                "yogurt",
+                "fruit puree",
+                "sugar"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "cold",
+                "drink",
+                "healthy"
+            ]
+        },
+        {
+            "name": "Dragonfruit Yogurt",
+            "price": "7",
+            "ingredients": [
+                "yogurt",
+                "fruit puree",
+                "sugar"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "cold",
+                "drink",
+                "healthy"
+            ]
+        },
+        {
+            "name": "Mango Betagen",
+            "price": "7",
+            "ingredients": [
+                "mango juice",
+                "yakult or similar probiotic drink"
+            ],
+            "tags": [
+                "halal",
+                "cold",
+                "drink",
+                "healthy"
+            ]
+        },
+
+        {
+            "name": "Mango Shaved Ice",
+            "price": "6.5",
+            "ingredients": [
+                "ice",
+                "syrup",
+                "toppings (milo",
+                "oreo",
+                "fruit)"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "cold",
+                "food",
+                "healthy"
+            ]
+        },
+        {
+            "name": "Milo Oreo Shaved Ice",
+            "price": "7",
+            "ingredients": [
+                "ice",
+                "syrup",
+                "toppings (milo",
+                "oreo",
+                "fruit)"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "cold",
+                "food",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Coconut Milkshake (Normal/Upsize)",
+            "price": "5.00 / 7.00",
+            "ingredients": [
+                "coconut milk",
+                "milk",
+                "sugar"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "cold",
+                "drink",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Banana Milkshake (Upsize Only)",
+            "price": "7",
+            "ingredients": [
+                "banana",
+                "milk",
+                "ice cream"
+            ],
+            "tags": [
+                "halal",
+                "sweet",
+                "cold",
+                "drink",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Single Fruit Juice (Normal/Upsize)",
+            "price": "4.00 / 6.00",
+            "ingredients": [
+                "fresh fruit juice (varies)"
+            ],
+            "tags": [
+                "halal",
+                "cold",
+                "drink",
+                "healthy"
+            ]
+        },
+        {
+            "name": "2 Mixed Fruits Juice",
+            "price": "6",
+            "ingredients": [
+                "fresh fruit juice (varies)"
+            ],
+            "tags": [
+                "halal",
+                "cold",
+                "drink",
+                "healthy"
+            ]
+        },
+        {
+            "name": "3 Mixed Fruits Juice",
+            "price": "6.5",
+            "ingredients": [
+                "fresh fruit juice (varies)"
+            ],
+            "tags": [
+                "halal",
+                "cold",
+                "drink",
+                "healthy"
+            ]
+        }
+    ],
+    "American_Breakfast": [
+        {
+            "name": "Pancake Set",
+            "price": "11",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "sweet"
+            ],
+            "ingredients": [
+                "Pancakes",
+                "butter",
+                "maple syrup",
+                "scrambled eggs",
+                "chicken sausage"
+            ]
+        },
+
+        {
+            "name": "French/Garlic Toast Set (Small)",
+            "price": "9",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "French toast or garlic toast",
+                "scrambled eggs",
+                "baked beans",
+                "chicken sausage"
+            ]
+        },
+        {
+            "name": "French/Garlic Toast Set (Big)",
+            "price": "15",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "French toast or garlic toast",
+                "scrambled eggs",
+                "baked beans",
+                "chicken sausage",
+                "hash brown"
+            ]
+        },
+        {
+            "name": "Toast Set",
+            "price": "8",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "Toast",
+                "butter",
+                "scrambled eggs",
+                "baked beans"
+            ]
+        },
+
+        {
+            "name": "Pancake - 1 slice",
+            "price": "6",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "sweet"
+            ],
+            "ingredients": [
+                "Pancake",
+                "butter",
+                "maple syrup"
+            ]
+        },
+        {
+            "name": "Pancake - 2 slices",
+            "price": "12",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "sweet"
+            ],
+            "ingredients": [
+                "Pancake",
+                "butter",
+                "maple syrup"
+            ]
+        },
+        {
+            "name": "French/Garlic Toast - 1 slice",
+            "price": "2",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "French toast or garlic toast"
+            ]
+        },
+        {
+            "name": "French/Garlic Toast - 2 slices",
+            "price": "3",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "French toast or garlic toast"
+            ]
+        },
+        {
+            "name": "Toast with Butter",
+            "Price": "2",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "Toast",
+                "butter"
+            ]
+        },
+        {
+            "name": "Chocolate French Toast w/ Ice Cream",
+            "price": "12",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "sweet",
+                "cold"
+            ],
+            "ingredients": [
+                "French toast",
+                "chocolate syrup",
+                "vanilla ice cream"
+            ]
+        },
+        {
+            "name": "Hash Brown",
+            "price": "3",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "Potatoes",
+                "salt",
+                "oil"
+            ]
+        },
+        {
+            "name": "Baked Beans",
+            "price": "2",
+            "tags": [
+                "halal",
+                "food",
+                "healthy"
+            ],
+            "ingredients": [
+                "Beans",
+                "tomato sauce",
+                "spices"
+            ]
+        },
+        {
+            "name": "Chicken Sausage",
+            "price": "3",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "Chicken",
+                "spices",
+                "casing"
+            ]
+        },
+        {
+            "name": "Pork Bacon",
+            "price": "5",
+            "tags": [
+                "not halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "Pork belly",
+                "salt",
+                "sugar"
+            ]
+        },
+        {
+            "name": "Premium Ice Cream",
+            "price": "5",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "sweet",
+                "cold"
+            ],
+            "ingredients": [
+                "Milk",
+                "cream",
+                "sugar",
+                "flavoring"
+            ]
+        },
+        {
+            "name": "Egg - Scramble",
+            "price": "2",
+            "tags": [
+                "halal",
+                "food",
+                "healthy"
+            ],
+            "ingredients": [
+                "Eggs",
+                "milk",
+                "salt",
+                "pepper"
+            ]
+        },
+        {
+            "name": "Egg - Sunny Side Up",
+            "price": "2",
+            "tags": [
+                "halal",
+                "food",
+                "healthy"
+            ],
+            "ingredients": [
+                "Eggs",
+                "salt",
+                "oil"
+            ]
+        },
+        {
+            "name": "Egg - Fried",
+            "price": "2",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "Eggs",
+                "oil",
+                "salt"
+            ]
+        },
+
+        {
+            "name": "Creamy Carbonara",
+            "price": "15",
+            "tags": [
+                "not halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "Spaghetti",
+                "cream",
+                "egg",
+                "cheese",
+                "black pepper",
+                "bacon"
+            ]
+        },
+        {
+            "name": "Tomato Spaghetti",
+            "price": "15",
+            "tags": [
+                "halal",
+                "food",
+                "healthy"
+            ],
+            "ingredients": [
+                "Spaghetti",
+                "tomato sauce",
+                "garlic",
+                "basil",
+                "olive oil"
+            ]
+        },
+        {
+            "name": "Macaroni Chicken Soup",
+            "price": "14",
+            "tags": [
+                "halal",
+                "food",
+                "healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "Macaroni",
+                "chicken",
+                "chicken broth",
+                "carrots",
+                "onions"
+            ]
+        },
+        {
+            "name": "Macaroni Tomato Soup with Egg",
+            "price": "14",
+            "tags": [
+                "halal",
+                "food",
+                "healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "Macaroni",
+                "tomato soup",
+                "eggs",
+                "herbs"
+            ]
+        },
+        {
+            "name": "Mushroom Soup",
+            "price": "12",
+            "tags": [
+                "halal",
+                "food",
+                "healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "Mushrooms",
+                "cream",
+                "onion",
+                "garlic"
+            ]
+        },
+
+
+        {
+            "name": "Tomato Soup ",
+            "price": "14",
+            "tags": [
+                "halal",
+                "food",
+                "healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "Tomatoes",
+                "cream",
+                "basil",
+                "onion"
+            ]
+        },
+        {
+            "name": "Green Pea Soup ",
+            "price": "12",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "Green peas",
+                "onion",
+                "cream",
+                "vegetable stock"
+            ]
+        },
+
+        {
+            "name": "Curry Carrot Soup ",
+            "price)": "12",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "healthy",
+                "hot",
+                "spicy"
+            ],
+            "ingredients": [
+                "Carrots",
+                "curry powder",
+                "onion",
+                "cream"
+            ]
+        },
+        {
+            "name": "Baked Potato Casserole",
+            "price": "15",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "Potatoes",
+                "cheese",
+                "cream",
+                "butter"
+            ]
+        },
+        {
+            "name": "Chicken Plate",
+            "price": "19",
+            "tags": [
+                "halal",
+                "food",
+                "healthy"
+            ],
+            "ingredients": [
+                "Grilled chicken",
+                "vegetables",
+                "mashed potatoes",
+                "gravy"
+            ]
+        },
+        {
+            "name": "Omelette",
+            "price": "5",
+            "tags": [
+                "halal",
+                "food",
+                "healthy"
+            ],
+            "ingredients": [
+                "Eggs",
+                "onion",
+                "bell pepper",
+                "cheese"
+            ]
+        },
+        {
+            "name": "Potato Egg Salad",
+            "price": "4",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "cold"
+            ],
+            "ingredients": [
+                "Potatoes",
+                "eggs",
+                "mayonnaise",
+                "mustard"
+            ]
+        },
+        {
+            "name": "Coleslaw",
+            "price": "4",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "healthy",
+                "cold"
+            ],
+            "ingredients": [
+                "Cabbage",
+                "carrots",
+                "mayonnaise",
+                "vinegar"
+            ]
+        }
+    ],
+    "Astana in B1": [
+        {
+            "name": "Uighur Lagman",
+            "price": "15",
+            "tags": [
+                "halal",
+                "food",
+                "spicy",
+                "hot"
+            ],
+            "ingredients": [
+                "hand-pulled noodles",
+                "beef",
+                "bell peppers",
+                "tomatoes",
+                "onions",
+                "garlic",
+                "soy sauce",
+                "chili"
+            ]
+        },
+        {
+            "name": "Passion Fruit Lemonade",
+            "price": "10.2",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "sweet",
+                "healthy"
+            ],
+            "ingredients": [
+                "passion fruit",
+                "lemon juice",
+                "sugar syrup",
+                "water",
+                "ice"
+            ]
+        },
+        {
+            "name": "Matcha",
+            "price": "10.5",
+            "tags": [
+                "halal",
+                "drink",
+                "hot",
+                "cold",
+                "healthy"
+            ],
+            "ingredients": [
+                "matcha green tea powder",
+                "milk",
+                "water",
+                "sugar"
+            ]
+        },
+        {
+            "name": "Lytchee-Pineapple Ice tea",
+            "price": "10.5",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "sweet"
+            ],
+            "ingredients": [
+                "lychee syrup",
+                "pineapple juice",
+                "black tea",
+                "sugar",
+                "ice"
+            ]
+        },
+        {
+            "name": "Classic Lemonade",
+            "price": "10.5",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "sweet",
+                "healthy"
+            ],
+            "ingredients": [
+                "lemon juice",
+                "sugar",
+                "water",
+                "ice"
+            ]
+        },
+        {
+            "name": "Fuse-tea",
+            "price": "3.5",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "sweet"
+            ],
+            "ingredients": [
+                "bottled black tea",
+                "sugar",
+                "flavoring"
+            ]
+        },
+        {
+            "name": "Coca-Cola",
+            "price": "3.5",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "sweet",
+                "not healthy"
+            ],
+            "ingredients": [
+                "carbonated water",
+                "sugar",
+                "caramel color",
+                "caffeine",
+                "phosphoric acid"
+            ]
+        },
+        {
+            "name": "Sprite",
+            "price": "3.5",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "sweet",
+                "not healthy"
+            ],
+            "ingredients": [
+                "carbonated water",
+                "sugar",
+                "citric acid",
+                "natural lemon-lime flavor"
+            ]
+        },
+        {
+            "name": "7-up",
+            "price": "3.5",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "sweet",
+                "not healthy"
+            ],
+            "ingredients": [
+                "carbonated water",
+                "sugar",
+                "citric acid",
+                "lemon-lime flavor"
+            ]
+        },
+        {
+            "name": "Greek salad",
+            "Price": "15",
+            "tags": [
+                "halal",
+                "food",
+                "healthy",
+                "cold"
+            ],
+            "ingredients": [
+                "tomato",
+                "cucumber",
+                "red onion",
+                "olives",
+                "feta cheese",
+                "olive oil",
+                "oregano"
+            ]
+        },
+        {
+            "name": "Astana salad",
+            "Price": "15",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "cold"
+            ],
+            "ingredients": [
+                "beef",
+                "cucumbers",
+                "bell peppers",
+                "onion",
+                "mayonnaise"
+            ]
+        },
+        {
+            "name": "Olivier",
+            "price": "12",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "cold"
+            ],
+            "ingredients": [
+                "potatoes",
+                "carrots",
+                "peas",
+                "pickles",
+                "boiled egg",
+                "mayonnaise",
+                "chicken or sausage"
+            ]
+        },
+        {
+            "name": "Caesar salad",
+            "price": "12",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "cold"
+            ],
+            "ingredients": [
+                "romaine lettuce",
+                "croutons",
+                "parmesan cheese",
+                "Caesar dressing",
+                "chicken (optional)"
+            ]
+        },
+        {
+            "name": "Baq La zhan",
+            "price": "12",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "healthy",
+                "cold",
+                "spicy"
+            ],
+            "ingredients": [
+                "eggplant",
+                "garlic",
+                "vinegar",
+                "soy sauce",
+                "chili oil"
+            ]
+        },
+        {
+            "name": "Carrot salad",
+            "price": "10",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "healthy",
+                "cold"
+            ],
+            "ingredients": [
+                "carrots",
+                "garlic",
+                "vinegar",
+                "oil",
+                "coriander"
+            ]
+        },
+        {
+            "name": "Achichok",
+            "price": "10",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "healthy",
+                "cold"
+            ],
+            "ingredients": [
+                "cabbage",
+                "bell pepper",
+                "vinegar",
+                "sugar",
+                "salt",
+                "oil"
+            ]
+        },
+
+        {
+            "name": "Uzbek Mastava",
+            "price": "15",
+            "tags": [
+                "halal",
+                "food",
+                "healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "rice",
+                "beef or lamb",
+                "carrots",
+                "onion",
+                "tomatoes",
+                "chickpeas",
+                "spices"
+            ]
+        },
+        {
+            "name": "Pelmeni chicken",
+            "price)": "15",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "flour",
+                "egg",
+                "water (dough)",
+                "chicken",
+                "onion",
+                "salt",
+                "pepper"
+            ]
+        },
+        {
+            "name": "Pelmeni Beef",
+            "price": "15",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "flour",
+                "egg",
+                "water (dough)",
+                "beef",
+                "onion",
+                "salt",
+                "pepper"
+            ]
+        },
+        {
+            "name": "Lentil soup",
+            "price": "15",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "lentils",
+                "onion",
+                "carrot",
+                "garlic",
+                "cumin",
+                "tomato paste",
+                "oil"
+            ]
+        },
+        {
+            "name": "Borsh",
+            "price": "15",
+            "tags": [
+                "halal",
+                "food",
+                "healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "beetroot",
+                "cabbage",
+                "potatoes",
+                "carrot",
+                "onion",
+                "garlic",
+                "tomato paste",
+                "beef",
+                "dill"
+            ]
+        },
+        {
+            "name": "Beshbarmak 2-3 pax",
+            "price": "50",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "boiled dough",
+                "beef/lamb",
+                "onion broth",
+                "spices"
+            ]
+        },
+        {
+            "name": "Beshbarmak",
+            "price": "25",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "boiled dough",
+                "beef/lamb",
+                "onion broth",
+                "spices"
+            ]
+        },
+        {
+            "name": "Plov with kazy",
+            "price": "20",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "rice",
+                "carrot",
+                "onion",
+                "cumin",
+                "garlic",
+                "kazy (horse meat sausage)",
+                "oil"
+            ]
+        },
+        {
+            "name": "plov with beef",
+            "price": "16",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "rice",
+                "carrot",
+                "onion",
+                "cumin",
+                "garlic",
+                "beef",
+                "oil"
+            ]
+        },
+        {
+            "name": "Zharkoe",
+            "price": "19",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "beef",
+                "potatoes",
+                "onion",
+                "carrot",
+                "garlic",
+                "tomato paste",
+                "herbs"
+            ]
+        },
+        {
+            "name": "Fried pelmeni with chicken",
+            "price": "16",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "pelmeni dough",
+                "chicken",
+                "onion",
+                "butter/oil"
+            ]
+        },
+        {
+            "name": "Fried pelmeni with beef",
+            "price": "16",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "pelmeni dough",
+                "beef",
+                "onion",
+                "butter/oil"
+            ]
+        },
+        {
+            "name": "Manty",
+            "price": "17",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "flour dough",
+                "minced beef/lamb",
+                "onion",
+                "spices"
+            ]
+        },
+        {
+            "name": "Fried Manty",
+            "price": "17",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "manty dough",
+                "beef or lamb",
+                "onion",
+                "spices",
+                "oil"
+            ]
+        },
+        {
+            "name": "Vareniki",
+            "price": "16",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "dough",
+                "mashed potatoes or cheese",
+                "onion",
+                "butter"
+            ]
+        },
+        {
+            "name": "Khachapuri",
+            "price": "30",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "bread dough",
+                "cheese (sulguni or feta)",
+                "egg",
+                "butter"
+            ]
+        },
+        {
+            "name": "Kazy 100g",
+            "price": "18",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy"
+            ],
+            "ingredients": [
+                "horse meat",
+                "salt",
+                "pepper",
+                "garlic",
+                "intestine casing"
+            ]
+        },
+        {
+            "name": "Samsa beef",
+            "price": "5",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "puff pastry",
+                "beef",
+                "onion",
+                "spices"
+            ]
+        },
+        {
+            "name": "Sansa chicken",
+            "price": "5",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "hot"
+            ],
+            "ingredients": [
+                "puff pastry",
+                "chicken",
+                "onion",
+                "spices"
+            ]
+        },
+        {
+            "name": "Blinchiki with cottage cheese",
+            "price": "5",
+            "tags": [
+                "halal",
+                "vegetarian",
+                "food",
+                "not healthy",
+                "sweet"
+            ],
+            "ingredients": [
+                "flour",
+                "egg",
+                "milk",
+                "cottage cheese",
+                "sugar"
+            ]
+        },
+        {
+            "name": "Traditional Bread",
+            "price": "3",
+            "tags": [
+                "halal",
+                "food",
+                "healthy"
+            ],
+            "ingredients": [
+                "flour",
+                "yeast",
+                "salt",
+                "water"
+            ]
+        },
+        {
+            "name": "Peaches 5pc",
+            "price": "10",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "sweet"
+            ],
+            "ingredients": [
+                "caramel"
+            ]
+        },
+        {
+            "name": "Oreshki 5pc",
+            "price": "10",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "sweet"
+            ],
+            "ingredients": [
+                "shortcrust pastry",
+                "condensed milk filling"
+            ]
+        },
+        {
+            "name": "Kartoshka 1pc",
+            "price": "9",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "sweet"
+            ],
+            "ingredients": [
+                "biscuits",
+                "cocoa",
+                "condensed milk",
+                "butter"
+            ]
+        },
+        {
+            "name": "Peaches 1pc",
+            "price": "2",
+            "tags": [
+                "halal",
+                "food",
+                "healthy",
+                "sweet"
+            ],
+            "ingredients": [
+                "peach"
+            ]
+        },
+        {
+            "name": "Oreshki 1pc",
+            "price": "2",
+            "tags": [
+                "halal",
+                "food",
+                "not healthy",
+                "sweet"
+            ],
+            "ingredients": [
+                "shortcrust pastry",
+                "condensed milk filling"
+            ]
+        },
+        {
+            "name": "Ice Latte",
+            "price": "11",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "not healthy"
+            ],
+            "ingredients": [
+                "espresso",
+                "milk",
+                "ice"
+            ]
+        },
+        {
+            "name": "Hot latte",
+            "price": "10.5",
+            "tags": [
+                "halal",
+                "drink",
+                "hot",
+                "not healthy"
+            ],
+            "ingredients": [
+                "espresso",
+                "steamed milk"
+            ]
+        },
+        {
+            "name": "Green tea (pot)",
+            "price": "10",
+            "tags": [
+                "halal",
+                "drink",
+                "hot",
+                "healthy"
+            ],
+            "ingredients": [
+                "green tea leaves",
+                "hot water"
+            ]
+        },
+        {
+            "name": "Black tea (pot)",
+            "price": "10",
+            "tags": [
+                "halal",
+                "drink",
+                "hot",
+                "healthy"
+            ],
+            "ingredients": [
+                "black tea leaves",
+                "hot water"
+            ]
+        },
+        {
+            "name": "Kvas 500ml",
+            "price": "9",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "healthy"
+            ],
+            "ingredients": [
+                "fermented rye bread",
+                "sugar",
+                "yeast",
+                "water"
+            ]
+        },
+        {
+            "name": "Compot 500ml",
+            "price": "5",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "healthy"
+            ],
+            "ingredients": [
+                "boiled fruits (apple",
+                "pear",
+                "cherry)",
+                "sugar",
+                "water"
+            ]
+        },
+        {
+            "name": "Airan 500ml",
+            "price": "5",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "healthy"
+            ],
+            "ingredients": [
+                "yogurt",
+                "water",
+                "salt"
+            ]
+        },
+        {
+            "name": "Ice Americano",
+            "price": "8",
+            "tags": [
+                "halal",
+                "drink",
+                "cold",
+                "not healthy"
+            ],
+            "ingredients": [
+                "espresso",
+                "cold water",
+                "ice"
+            ]
+        },
+        {
+            "name": "Cappucino",
+            "price": "8",
+            "tags": [
+                "halal",
+                "drink",
+                "hot",
+                "not healthy"
+            ],
+            "ingredients": [
+                "espresso",
+                "steamed milk",
+                "milk foam"
+            ]
+        },
+        {
+            "name": "Espresso",
+            "price": "7",
+            "tags": [
+                "halal",
+                "drink",
+                "hot",
+                "not healthy"
+            ],
+            "ingredients": [
+                "finely ground coffee",
+                "hot water"
+            ]
+        },
+        {
+            "name": "Americano",
+            "price": "7",
+            "tags": [
+                "halal",
+                "drink",
+                "hot",
+                "not healthy"
+            ],
+            "ingredients": [
+                "espresso",
+                "hot water"
+            ]
+        }
+    ],
+    "Restea_Restaurant in B1": [
+        {
+            "name": "Kebab Meat Fries",
+            "price": 16.9,
+            "ingredients": [
+                "grilled beef or chicken",
+                "fries or rice",
+                "garlic sauce",
+                "pickles",
+                "parsley"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Kebaba Chicken Fries",
+            "price": 14.9,
+            "ingredients": [
+                "grilled beef or chicken",
+                "fries or rice",
+                "garlic sauce",
+                "pickles",
+                "parsley"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Mix Kebab Fries",
+            "price": 15.9,
+            "ingredients": [
+                "grilled beef or chicken",
+                "fries or rice",
+                "garlic sauce",
+                "pickles",
+                "parsley"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Kebab Chicken Rice",
+            "price": 14.9,
+            "ingredients": [
+                "grilled beef or chicken",
+                "fries or rice",
+                "garlic sauce",
+                "pickles",
+                "parsley"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Meat Kebab  Rice",
+            "price": 16.9,
+            "ingredients": [
+                "grilled beef or chicken",
+                "fries or rice",
+                "garlic sauce",
+                "pickles",
+                "parsley"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Mix Kebab Rice",
+            "price": 15.9,
+            "ingredients": [
+                "grilled beef or chicken",
+                "fries or rice",
+                "garlic sauce",
+                "pickles",
+                "parsley"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Mandy Chicken Rice",
+            "price": 12.9,
+            "ingredients": [
+                "basmati rice",
+                "roasted chicken",
+                "mandy spices",
+                "raisins",
+                "almonds"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Roasted Chicken Rice",
+            "price": 12.9,
+            "ingredients": [
+                "meat or vegetables",
+                "bread or rice",
+                "spices",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "BBQ chicken Rice",
+            "price": 14.9,
+            "ingredients": [
+                "chicken with BBQ sauce",
+                "rice",
+                "salad",
+                "herbs"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Fahsa Beef Rice",
+            "price": 15.9,
+            "ingredients": [
+                "shredded beef",
+                "spicy stew",
+                "fenugreek sauce",
+                "rice",
+                "herbs"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Fajsaj Chicken Rice",
+            "price": 14.9,
+            "ingredients": [
+                "shredded chicken",
+                "spicy tomato sauce",
+                "rice",
+                "herbs"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Fried Liver Rice",
+            "price": 12.9,
+            "ingredients": [
+                "fried liver",
+                "rice or sandwich bread",
+                "spices",
+                "onion"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pizza chicken",
+            "price": 17.9,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pizza Korean Spicy",
+            "price": 17.9,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Pizza bbq",
+            "price": 17.9,
+            "ingredients": [
+                "chicken with BBQ sauce",
+                "rice",
+                "salad",
+                "herbs"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "pizza Chicken Pepperoni",
+            "price": 16.9,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pizza Beef Pepperoni",
+            "price": 16.9,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pizza Sausage Pepperoni",
+            "price": 16.9,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pizza restea Chicken",
+            "price": 16.9,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pizza restea Beef",
+            "price": 16.9,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pizza Restea Vegeterian",
+            "price": 16.9,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Pizza Island Tuna",
+            "price": 17.9,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pizza Double Cheese",
+            "price": 25.0,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Pizza Alwaha",
+            "price": 17.9,
+            "ingredients": [
+                "pizza dough",
+                "mozzarella",
+                "tomato sauce",
+                "toppings (chicken",
+                "pepperoni",
+                "tuna",
+                "cheese",
+                "etc.)"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Beef Steak Sandwich",
+            "price": 12.9,
+            "ingredients": [
+                "bread",
+                "meat or sausage",
+                "lettuce",
+                "tomato",
+                "mayonnaise"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Fajita Chicken Sandwich",
+            "price": 10.0,
+            "ingredients": [
+                "bread",
+                "meat or sausage",
+                "lettuce",
+                "tomato",
+                "mayonnaise"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Double Fajita Chicken",
+            "price": 15.9,
+            "ingredients": [
+                "meat or vegetables",
+                "bread or rice",
+                "spices",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Double Fajita Beef Steak",
+            "price": 17.9,
+            "ingredients": [
+                "meat or vegetables",
+                "bread or rice",
+                "spices",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Double fajita Chicken",
+            "price": 14.0,
+            "ingredients": [
+                "meat or vegetables",
+                "bread or rice",
+                "spices",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Fried liver Sandwich",
+            "price": 9.9,
+            "ingredients": [
+                "fried liver",
+                "rice or sandwich bread",
+                "spices",
+                "onion"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Classic sandwich",
+            "price": 6.0,
+            "ingredients": [
+                "bread",
+                "meat or sausage",
+                "lettuce",
+                "tomato",
+                "mayonnaise"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Hotdog Sandwich",
+            "price": 7.0,
+            "ingredients": [
+                "bread",
+                "meat or sausage",
+                "lettuce",
+                "tomato",
+                "mayonnaise"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pataya Chicken fried rice",
+            "price": 9.9,
+            "ingredients": [
+                "fried rice",
+                "chicken",
+                "vegetables",
+                "egg",
+                "soy sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Crazy Egg Fried Rice",
+            "price": 8.9,
+            "ingredients": [
+                "fried rice",
+                "scrambled egg",
+                "vegetables",
+                "soy sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Maggi Goreng Chicken",
+            "price": 8.9,
+            "ingredients": [
+                "maggi noodles",
+                "chicken",
+                "vegetables",
+                "soy sauce",
+                "egg"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Dumpling Soup 8pc",
+            "price": 9.9,
+            "ingredients": [
+                "dumplings",
+                "chicken or beef",
+                "clear broth",
+                "spring onions"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot"
+            ]
+        },
+        {
+            "name": "Dumpling Soup 5pc",
+            "price": 5.9,
+            "ingredients": [
+                "dumplings",
+                "chicken or beef",
+                "clear broth",
+                "spring onions"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot"
+            ]
+        },
+        {
+            "name": "Dumpling Mee Soup 8 pc",
+            "price": 12.9,
+            "ingredients": [
+                "noodles",
+                "dumplings (chicken or beef)",
+                "broth",
+                "green onions"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot"
+            ]
+        },
+        {
+            "name": "Dumpling Mee Soup 5 pc",
+            "price": 8.9,
+            "ingredients": [
+                "noodles",
+                "dumplings (chicken or beef)",
+                "broth",
+                "green onions"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot"
+            ]
+        }
+    ],
+    "Sapid_Restaurant in B1": [
+        {
+            "name": "Korean Ramen Cheezy Plate",
+            "price": 19.9,
+            "ingredients": [
+                "ramen noodles",
+                "broth",
+                "egg",
+                "green onions",
+                "meat or tofu",
+                "nori",
+                "sesame oil"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Korean Ramen Plate",
+            "price": 16.9,
+            "ingredients": [
+                "ramen noodles",
+                "broth",
+                "egg",
+                "green onions",
+                "meat or tofu",
+                "nori",
+                "sesame oil"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Korean Rice Plate",
+            "price": 16.9,
+            "ingredients": [
+                "steamed rice",
+                "protein (chicken/beef/fish)",
+                "sauce",
+                "vegetables"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Korean Chicken Wings spicy",
+            "price": 15.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Korean chicken wings",
+            "price": 15.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Bulgagi Bowl beef",
+            "price": 17.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Udon",
+            "price": 12.9,
+            "ingredients": [
+                "udon noodles",
+                "broth",
+                "green onions",
+                "mushrooms",
+                "fish cake or tempura"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot"
+            ]
+        },
+        {
+            "name": "Ramen",
+            "price": 12.9,
+            "ingredients": [
+                "ramen noodles",
+                "broth",
+                "egg",
+                "green onions",
+                "meat or tofu",
+                "nori",
+                "sesame oil"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot"
+            ]
+        },
+        {
+            "name": "Cheezy chicken katsu curry don",
+            "price": 18.9,
+            "ingredients": [
+                "fried breaded chicken",
+                "Japanese curry",
+                "rice",
+                "eggs",
+                "breadcrumbs"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Chicken katsu curry don",
+            "price": 16.9,
+            "ingredients": [
+                "fried breaded chicken",
+                "Japanese curry",
+                "rice",
+                "eggs",
+                "breadcrumbs"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Teriyaki chicken don",
+            "price": 16.9,
+            "ingredients": [
+                "steamed rice",
+                "meat or seafood topping",
+                "vegetables",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Teriyaki chicken don",
+            "price": 19.9,
+            "ingredients": [
+                "steamed rice",
+                "meat or seafood topping",
+                "vegetables",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Teriyaki chicken ramen",
+            "price": 16.9,
+            "ingredients": [
+                "ramen noodles",
+                "broth",
+                "egg",
+                "green onions",
+                "meat or tofu",
+                "nori",
+                "sesame oil"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot"
+            ]
+        },
+        {
+            "name": "Chicken katsu curry udon",
+            "price": 15.9,
+            "ingredients": [
+                "udon noodles",
+                "broth",
+                "green onions",
+                "mushrooms",
+                "fish cake or tempura"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Beef Curry don",
+            "price": 17.9,
+            "ingredients": [
+                "steamed rice",
+                "meat or seafood topping",
+                "vegetables",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Beef udon curry",
+            "price": 17.9,
+            "ingredients": [
+                "udon noodles",
+                "broth",
+                "green onions",
+                "mushrooms",
+                "fish cake or tempura"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Salmon fish don",
+            "price": 17.9,
+            "ingredients": [
+                "steamed rice",
+                "meat or seafood topping",
+                "vegetables",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Ebi Curry Don",
+            "price": 16.9,
+            "ingredients": [
+                "steamed rice",
+                "meat or seafood topping",
+                "vegetables",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Zinger Burger",
+            "price": 9.9,
+            "ingredients": [
+                "burger bun",
+                "meat patty",
+                "lettuce",
+                "tomato",
+                "cheese",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Zinger Burger With Fried",
+            "price": 13.9,
+            "ingredients": [
+                "burger bun",
+                "meat patty",
+                "lettuce",
+                "tomato",
+                "cheese",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Beef Burger",
+            "price": 12.9,
+            "ingredients": [
+                "burger bun",
+                "meat patty",
+                "lettuce",
+                "tomato",
+                "cheese",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Beef Burger with Fries",
+            "price": 15.9,
+            "ingredients": [
+                "burger bun",
+                "meat patty",
+                "lettuce",
+                "tomato",
+                "cheese",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "cheezy zinger Burger",
+            "price": 15.9,
+            "ingredients": [
+                "burger bun",
+                "meat patty",
+                "lettuce",
+                "tomato",
+                "cheese",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Chicken Burger with fries",
+            "price": 13.9,
+            "ingredients": [
+                "burger bun",
+                "meat patty",
+                "lettuce",
+                "tomato",
+                "cheese",
+                "sauce"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Chicken Popcorn",
+            "price": 12.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "French Fries",
+            "price": 6.0,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Cheezy French Fries",
+            "price": 8.0,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Potato wedges",
+            "price": 7.0,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Creamy Mushrooml Soup",
+            "price": 8.0,
+            "ingredients": [
+                "broth",
+                "vegetables",
+                "cream or meat"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Cheezy Potato Wedges",
+            "price": 9.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Zinger Chicken Rice",
+            "price": 14.9,
+            "ingredients": [
+                "steamed rice",
+                "protein (chicken/beef/fish)",
+                "sauce",
+                "vegetables"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Escalope Chicken Rice",
+            "price": 15.9,
+            "ingredients": [
+                "steamed rice",
+                "protein (chicken/beef/fish)",
+                "sauce",
+                "vegetables"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Zinger Chicken Fries",
+            "price": 14.9,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Escalope Chicken Fries",
+            "price": 16.9,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Cutlet Chicken Rice",
+            "price": 15.9,
+            "ingredients": [
+                "steamed rice",
+                "protein (chicken/beef/fish)",
+                "sauce",
+                "vegetables"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Crispy Chicken Rice",
+            "price": 14.9,
+            "ingredients": [
+                "steamed rice",
+                "protein (chicken/beef/fish)",
+                "sauce",
+                "vegetables"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Cutlet Chicken Fries",
+            "price": 15.9,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Crispy Chicken Fries",
+            "price": 14.9,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Cheezy Creazy Loaded",
+            "price": 19.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce", "cheese",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Cheezy Chicken Loaded",
+            "price": 15.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Zinger Double Meal",
+            "price": 25.9,
+            "ingredients": [
+                "spicy fried chicken",
+                "bun or wrap",
+                "lettuce",
+                "mayo"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Cheezy Quesadilla",
+            "price": 17.9,
+            "ingredients": [
+                "tortilla",
+                "cheese",
+                "grilled meat",
+                "onion",
+                "peppers",
+                "spices"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Grill Chiken Chop",
+            "price": 13.9,
+            "ingredients": [
+                "grilled meat (usually chicken)",
+                "sauce",
+                "side of rice or fries"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Chicken Maryland",
+            "price": 14.9,
+            "ingredients": [
+                "fried chicken",
+                "sausage",
+                "banana fritter",
+                "egg",
+                "beans"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Fish & Chips",
+            "price": 16.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Grilled Chicken Rice",
+            "price": 17.9,
+            "ingredients": [
+                "steamed rice",
+                "protein (chicken/beef/fish)",
+                "sauce",
+                "vegetables"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Maryland Rice",
+            "price": 17.9,
+            "ingredients": [
+                "steamed rice",
+                "protein (chicken/beef/fish)",
+                "sauce",
+                "vegetables"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Cheezy Fish n chips",
+            "price": 18.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pomodoro Chicken Chop",
+            "price": 16.9,
+            "ingredients": [
+                "grilled meat (usually chicken)",
+                "sauce",
+                "side of rice or fries"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Maryland Creamy Cheezy",
+            "price": 19.9,
+            "ingredients": [
+                "fried chicken",
+                "sausage",
+                "banana fritter",
+                "egg",
+                "beans"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "BUtter chicken Rice",
+            "price": 13.9,
+            "ingredients": [
+                "steamed rice",
+                "protein (chicken/beef/fish)",
+                "sauce",
+                "vegetables"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Grill Salmon",
+            "price": 25.0,
+            "ingredients": [
+                "salmon fillet",
+                "lemon",
+                "herbs",
+                "olive oil"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Grill Chicken Set served with agilo e olio",
+            "price": 19.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Chicken Maryland set",
+            "price": 19.9,
+            "ingredients": [
+                "fried chicken",
+                "sausage",
+                "banana fritter",
+                "egg",
+                "beans"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "KIng plater",
+            "price": 22.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Grilled chicken beef",
+            "price": 16.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Grill Salmon Set",
+            "price": 22.9,
+            "ingredients": [
+                "salmon fillet",
+                "lemon",
+                "herbs",
+                "olive oil"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Cheezy Crazy Mayo Chicken",
+            "price": 19.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Max n cheese Korean chicken",
+            "price": 19.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Koran Maryland (rice or fries)",
+            "price": 17.9,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Cheezy BBQ Chicken (rice or fries)",
+            "price": 17.9,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Lamb Chop Rice (Rice or fries)",
+            "price": 25.0,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Carbonara Spaghetti",
+            "price": 12.9,
+            "ingredients": [
+                "pasta",
+                "sauce (tomato/cream)",
+                "herbs",
+                "cheese",
+                "optional meat"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Bolognese Beef",
+            "price": 15.9,
+            "ingredients": [
+                "minced meat",
+                "tomato sauce",
+                "onion",
+                "garlic",
+                "herbs"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot"
+            ]
+        },
+        {
+            "name": "Bolognese Chicken",
+            "price": 13.9,
+            "ingredients": [
+                "minced meat",
+                "tomato sauce",
+                "onion",
+                "garlic",
+                "herbs"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot"
+            ]
+        },
+        {
+            "name": "Aglio e Olio",
+            "price": 11.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Fettucine Chicken",
+            "price": 13.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Arabiata",
+            "price": 12.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Chicken Creamy Tomato",
+            "price": 15.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Meatball Spaghetti",
+            "price": 15.9,
+            "ingredients": [
+                "pasta",
+                "sauce (tomato/cream)",
+                "herbs",
+                "cheese",
+                "optional meat"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Penne Beef Pasta pomodoro",
+            "price": 15.9,
+            "ingredients": [
+                "pasta",
+                "sauce (tomato/cream)",
+                "herbs",
+                "cheese",
+                "optional meat"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Pasta Pomodoro",
+            "price": 11.0,
+            "ingredients": [
+                "pasta",
+                "sauce (tomato/cream)",
+                "herbs",
+                "cheese",
+                "optional meat"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Creamy Pasta",
+            "price": 12.9,
+            "ingredients": [
+                "pasta",
+                "sauce (tomato/cream)",
+                "herbs",
+                "cheese",
+                "optional meat"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Mac n Cheese",
+            "price": 14.9,
+            "ingredients": [
+                "macaroni",
+                "cheese sauce",
+                "milk",
+                "butter"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Shawarma Wrap",
+            "price": 7.0,
+            "ingredients": [
+                "flatbread",
+                "meat", "vegetables",
+                "garlic sauce",
+                "lettuce",
+                "tomato"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Shawarma Fries",
+            "price": 10.0,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Shawarma Hungry Style",
+            "price": 12.9,
+            "ingredients": [
+                "meat (beef/chicken)",
+                "garlic sauce",
+                "pickles",
+                "pita or fries"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "White Rice",
+            "price": 3.0,
+            "ingredients": [
+                "steamed rice",
+                "protein (chicken/beef/fish)",
+                "sauce",
+                "vegetables"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "hot"
+            ]
+        },
+        {
+            "name": "Zinger Wrap",
+            "price": 8.0,
+            "ingredients": [
+                "flatbread",
+                "meat or vegetables",
+                "garlic sauce",
+                "lettuce",
+                "tomato"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Shawarma Cheese",
+            "price": 8.9,
+            "ingredients": [
+                "meat (beef/chicken)",
+                "garlic sauce",
+                "pickles",
+                "pita or fries"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Cheese& Fries",
+            "price": 11.0,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Mix Hungry Style",
+            "price": 12.5,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Zinger Fries",
+            "price": 11.0,
+            "ingredients": [
+                "potatoes",
+                "salt",
+                "oil",
+                "optional cheese or sauce topping"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "hot",
+                "not healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Arabian Hungry Style",
+            "price": 15.0,
+            "ingredients": [
+                "shawarma meat",
+                "fries",
+                "sauces",
+                "pita",
+                "salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Hummus",
+            "price": 13.0,
+            "ingredients": [
+                "chickpeas",
+                "tahini",
+                "olive oil",
+                "lemon",
+                "garlic"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Shawarma Rice",
+            "price": 13.0,
+            "ingredients": [
+                "meat (beef/chicken)",
+                "garlic sauce",
+                "pickles",
+                "pita or fries"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Zinger Hunger Style",
+            "price": 14.0,
+            "ingredients": [
+                "spicy fried chicken",
+                "bun or wrap",
+                "lettuce",
+                "mayo"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy",
+                "spicy"
+            ]
+        },
+        {
+            "name": "Ice Honey Lemon",
+            "price": 4.0,
+            "ingredients": [
+                "lemon juice",
+                "water",
+                "sugar or honey"
+            ],
+            "tags": [
+                "cold",
+                "drink",
+                "halal",
+                "healthy",
+                "sweet",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Ice Lemon Tea",
+            "price": 3.0,
+            "ingredients": [
+                "tea leaves",
+                "hot water",
+                "sugar or lemon"
+            ],
+            "tags": [
+                "cold",
+                "drink",
+                "halal",
+                "healthy",
+                "sweet",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Vimto Juice",
+            "price": 4.0,
+            "ingredients": [
+                "fresh fruit",
+                "water",
+                "sugar"
+            ],
+            "tags": [
+                "drink",
+                "halal",
+                "healthy",
+                "sweet",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Lemon Tea",
+            "price": 4.0,
+            "ingredients": [
+                "tea leaves",
+                "hot water",
+                "sugar or lemon"
+            ],
+            "tags": [
+                "drink",
+                "halal",
+                "healthy",
+                "sweet",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Ayran 500ml",
+            "price": 5.0,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "drink",
+                "halal",
+                "healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Ayran 250ml",
+            "price": 3.0,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "drink",
+                "halal",
+                "healthy",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Fresh Mango Juice",
+            "price": 7.0,
+            "ingredients": [
+                "fresh fruit",
+                "water",
+                "sugar"
+            ],
+            "tags": [
+                "cold",
+                "drink",
+                "halal",
+                "healthy",
+                "sweet",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Mango cocktail Juice",
+            "price": 8.0,
+            "ingredients": [
+                "fresh fruit",
+                "water",
+                "sugar"
+            ],
+            "tags": [
+                "cold",
+                "drink",
+                "halal",
+                "healthy",
+                "sweet",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Watermelon Juice",
+            "price": 5.9,
+            "ingredients": [
+                "fresh fruit",
+                "water",
+                "sugar"
+            ],
+            "tags": [
+                "cold",
+                "drink",
+                "halal",
+                "healthy",
+                "sweet",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Banana shake",
+            "price": 5.9,
+            "ingredients": [
+                "meat or vegetables",
+                "sauce",
+                "rice or bread",
+                "side salad"
+            ],
+            "tags": [
+                "food",
+                "halal",
+                "not healthy"
+            ]
+        },
+        {
+            "name": "Fresh orange Juice",
+            "price": 5.0,
+            "ingredients": [
+                "fresh fruit",
+                "water",
+                "sugar"
+            ],
+            "tags": [
+                "cold",
+                "drink",
+                "halal",
+                "healthy",
+                "sweet",
+                "vegetarian"
+            ]
+        },
+        {
+            "name": "Fresh Apple Juice",
+            "price": 5.9,
+            "ingredients": [
+                "fresh fruit",
+                "water",
+                "sugar"
+            ],
+            "tags": [
+                "cold",
+                "drink",
+                "halal",
+                "healthy",
+                "sweet",
+                "vegetarian"
+            ]
+        }
+    ]
+}
